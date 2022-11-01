@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">FILM REKOMENDASI</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Get to Know About </string>
+    <string name="this_activity2">Rekomendasi Film 2022</string>
+            <string name="this_activity3">Follow Us!</string>
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Tentang</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">Mahasiswa</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>KKN di DESA PENARI</item>
+        <item>DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS</item>
+        <item>SONIC THE HEDGEHOG 2</item>
+        <item>FANTASTIC BEAST: THE SECRETS OF DUMBLEDORE</item>
+        <item>MORBIUS</item>
+        <item>THE NORTHMAN</item>
+        <item>DEATH ON THE NILE</item>
+        <item>BEN DAN JODY</item>
+        <item>TURNING RED</item>
+    </string-array>
+    <string-array name="data_description">
+    <item>Film bioskop rekomendasi terhits yang pertama adalah KKN di DESA PENARI.
+        Kalian tentu sudah sangat familiar belakangan ini dengan judul film KKN di DESA PENARI
+        yang sempat viral di media sosial. Sempat mengalami penundaan, akhirnya film KKN di DESA
+        PENARI dirilis di bioskop pada akhir April 2022 lalu. </item>
+        <item>Film bioskop rekomendasi terhits berikutnya adalah DOCTOR STRANGE IN THE MULTIVERSE
+            OF MADNESS. Film yang disutradarai oleh Sam Raimi ini menyajikan kisah seru melintasi
+            Multiverse. Resmi rilis pada 05 Mei 2022 di bioskop, DOCTOR STRANGE IN THE
+            MULTIVERSE OF MADNESS berkisah mengenai perjalanan Doctor Strange berusaha menjaga
+            dan mengembalikan perdamaian di bumi.</item>
+        <item>SONIC THE HEDGEHOG 2 juga menjadi film bioskop rekomendasi berikutnya sayang buat
+            kalian lewatkan. Film SONIC THE HEDGEHOG 2 merupakan film yang mengangkat genre petualangan,
+            aksi dan komedi. Film ini mengkombinasikan animasi 3D yang juga sangat seru kalian saksikan.</item>
+        <item>FANTASTIC BEAST: THE SECRETS OF DUMBLEDORE merupakan film bioskop rekomendasi terhits
+            berikutnya. Film FANTASTIC BEAST: THE SECRETS OF DUMBLEDORE merupakan sekuel dari film
+            serupa sebelumnya. Di mana sinopsis FANTASTIC BEAST: THE SECRETS OF DUMBLEDORE bakalan
+            berfokus pada tokoh Dumbledore.</item>
+        <item>Sinopsis MORBIUS berkisah mengenai Michael Morbius yang berubah menjadi vampir usai
+            menyuntikkan obat yang diyakini bisa menyembuhkan penyakit langkanya. Morbius justru
+            menjadi seperti vampir yang haus darah. Walaupun sudah memberikan suntikan obat tersebut,
+            ternyata tak membuat sakitnya membaik. Meski begitu ia mendapatkan kekuatan super.
+            Pastinya film MORBIUS memiliki alur cerita seru yang wajib kalian tonton.</item>
+        <item>Sinopsis THE NORTHMAN berkisah mengenai Pengeran Amleth yang akan membalas dendam
+            terhadap kematian ayahnya. Film ini berangkat dari kisah legenda Skandinavia.
+            Di mana ayah dari pangeran Amleth diketahui meninggal di tangan pamannya.
+            Tidak hanya itu saja, sang ibu ternyata juga diculik. Inilah yang membangkitkan
+            amarah pangeran Amleth untuk menyelamatkan sang ibu sekaligus balas dendam.</item>
+        <item>JDEATH ON THE NILE juga termasuk film bioskop rekomendasi yang wajib kalian tonton.
+            Film DEATH ON THE NILE menghadirkan nama pemain populer Hollywood seperti Kenneth Branagh
+            , Annette Bening, Gal Gadot, Tom Bateman dan lainnya.</item>
+        <item>Film bioskop rekomendasi Indonesia selanjutnya adalah BEN dan JODY. Film BEN dan JODY
+            dibintangi dua aktor papan atas tanah air yakni Rio Dewanto dan Chicco Jerikho.
+            Sinopsis BEN dan JODY berkisah tentang persahabatan antara Ben dan Jody.
+            Keduanya berusaha mempertahankan tanahnya yang dirampas para mafia tanah.</item>
+        <item>TURNING RED juga menjadi film bioskop rekomendasi terhits. Film TURNING RED merupakan
+            film animasi yang seru banget kalian tonton. Sinopsis TURNING RED berkisah mengenai
+            seorang remaja bernama Mei Lee.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/kkn</item>
+        <item>@drawable/d</item>
+        <item>@drawable/s</item>
+        <item>@drawable/bes</item>
+        <item>@drawable/morbius</item>
+        <item>@drawable/northman</item>
+        <item>@drawable/dey</item>
+        <item>@drawable/ben</item>
+        <item>@drawable/turning</item>
+    </integer-array>
+</resources>
